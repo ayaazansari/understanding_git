@@ -9,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("commit after initial commit lol ")
-        hola hola hola
     }
 }
